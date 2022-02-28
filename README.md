@@ -20,6 +20,7 @@ Add the following constants:
    * CharMapSize
    * MetersToKm
    * MetersToMiles
+   * 
 Comment out your code to create vehicles and show their speed and replace with the remainder of the code from my Main
 Add CreateRoad to:
    * Abstract class GUI
