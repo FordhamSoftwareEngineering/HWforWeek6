@@ -16,13 +16,13 @@ Add/translate the code from SUI.cs. This will be the most lines of code, but it 
 
 Finally, add/translate and edit your main program with the code from Program.cs:
 Add the following constants:
-*WorldSize
-*CharMapSize
-*MetersToKm
-*MetersToMiles
+   * WorldSize
+   * CharMapSize
+   * MetersToKm
+   * MetersToMiles
 Comment out your code to create vehicles and show their speed and replace with the remainder of the code from my Main
 Add CreateRoad to:
-*Abstract class GUI
-*Class MetricGUI
-*Class ImperialGUI
+   * Abstract class GUI
+   * Class MetricGUI
+   * Class ImperialGUI
 
